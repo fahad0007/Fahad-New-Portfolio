@@ -69,6 +69,14 @@ const personalProjects = [
     github: "https://github.com/fahad0007/Zeel-Sofa",
   },
   {
+    name: "IronFordge Fitness Gym", category: "Personal · Fitness",
+    description: "A responsive React + Vite gym/fitness website with reusable components and a dark editorial visual style with Theme costomize options.",
+    stack: ["React.js",  "CSS"],
+    label: "Fitness",
+    demo: "https://ironfordge-fitness-gym.vercel.app/",
+    github: "https://github.com/fahad0007/IronFordge-Fitness-Gym",
+  },
+  {
     name: "Netflix UI Clone", category: "Personal · Entertainment",
     description: "A streaming-platform inspired interface exploring movie discovery, poster grids and dynamic hero content.",
     stack: ["React.js", "TMDB API", "Axios"],
