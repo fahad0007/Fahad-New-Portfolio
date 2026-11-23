@@ -398,7 +398,7 @@ function App() {
               <div className="window-top"><div className="window-dots"><i /><i /><i /></div><span>fahad.dev / intro.jsx</span><span className="window-lock">⌘</span></div>
               <div className="code-content">
                 <div className="code-line"><span className="line-no">01</span><span><b className="syntax-purple">const</b> <b className="syntax-blue">developer</b> = {"{"}</span></div>
-                <div className="code-line indent"><span className="line-no">02</span><span><em>name</em>: <b className="syntax-green">"Fahad Ansari"</b>,</span></div>
+                <div className="code-line indent"><span className="line-no">02</span><span><em>name</em>: <b className="syntax-green">"Fahad Ahamad Ansari"</b>,</span></div>
                 <div className="code-line indent"><span className="line-no">03</span><span><em>role</em>: <b className="syntax-green">"React Developer"</b>,</span></div>
                 <div className="code-line indent"><span className="line-no">04</span><span><em>experience</em>: <b className="syntax-orange">"2+ years"</b>,</span></div>
                 <div className="code-line indent"><span className="line-no">05</span><span><em>focus</em>: [</span></div>
